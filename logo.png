@@ -1,0 +1,15 @@
+<style>
+.logo {
+    height: 80px;
+    width: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
+</style>
+
+<header>
+<link rel="icon" type="image/png" href="logo.png">
+    <img src="logo.png" alt="IAVIKASH Logo" class="logo">
+    <h1>IAVIKASH</h1>
+    <p>Technology & AI</p>
+</header>
