@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>IAVIKASH</title>
+    <link rel="icon" type="image/png" href="logo.png">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="IAVIKASH Logo" height="80">
+        <h1>IAVIKASH</h1>
+        <p>Technology & AI</p>
+    </header>
+</body>
+</html>
